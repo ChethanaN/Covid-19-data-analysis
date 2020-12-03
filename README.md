@@ -8,4 +8,4 @@ The data visualization is done using Python and the dashboard is created using I
 
 IBM Cognos Analytics dashboard link:
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vSGzf1e7VXVths-Ge7IxiSSCHhnKn66jmr9pJHmqNBsquri_3sGWYOQaq7RngrRHEqfz1fUgAN0y_Sb/pubchart?oid=1110810328&format=interactive
+https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCovid-19%2Bcases%2Bdashboard&action=view&mode=dashboard&subView=model0000017628f8ae06_00000000
