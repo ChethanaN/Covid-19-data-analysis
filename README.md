@@ -4,13 +4,8 @@
 
 Covid-19 cases in India. The main goal of this project is to provide detailed statistical analysis of confirmed cases, active cases and deaths in India. 
 
-The data visualization is done using Python and the dashboard is created using Google sheets.
+The data visualization is done using Python and the dashboard is created using IBM Cognos Analytics.
 
-
-Google sheets link:
-
-https://docs.google.com/spreadsheets/d/1T8f3kZBkGy7yDkOjqUzXJ6ZFnyIppNW2FD7fiDHDSeo/edit?usp=sharing
-
-Dashboard published link:
+IBM Cognos Analytics dashboard link:
 
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSGzf1e7VXVths-Ge7IxiSSCHhnKn66jmr9pJHmqNBsquri_3sGWYOQaq7RngrRHEqfz1fUgAN0y_Sb/pubchart?oid=1110810328&format=interactive
