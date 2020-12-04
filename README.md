@@ -1,6 +1,6 @@
 # Covid-19-data-analysis
 
-: This is a data analysis project. It has the state wise data analysis of the 
+This is a data analysis project. It has the state wise data analysis of the 
 
 Covid-19 cases in India. The main goal of this project is to provide detailed statistical analysis of confirmed cases, active cases and deaths in India. 
 
