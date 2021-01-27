@@ -4,7 +4,7 @@ This is a data analysis project. It has the state wise data analysis of the
 
 Covid-19 cases in India. The main goal of this project is to provide detailed statistical analysis of confirmed cases, active cases and deaths in India. 
 
-The data visualization is done using Python and the dashboard is created using IBM Cognos Analytics.
+The data visualization is done using Python and the dashboard is created using IBM Cognos Analytics and Tableau.
 
 IBM Cognos Analytics dashboard link:
 
